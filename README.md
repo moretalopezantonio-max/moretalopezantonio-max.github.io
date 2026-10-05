@@ -17,3 +17,4 @@ Sin dependencias externas, scripts, cookies ni servicios de seguimiento.
 
 ## Revisión de diseño
 Foto original de 1362 × 2048 píxeles, sin compresión adicional ni recorte CSS. Secciones diferenciadas con encabezados en mayúsculas y títulos en serif. Enlaces verificados a Wiley, SSRN, Alejandro Casado y David Martínez-Miera. No se han encontrado páginas personales verificables de Nadia Lavín e Irene Pablos. Testimonios pendientes de comentarios reales anonimizados.
+Website updated.

@@ -9,3 +9,13 @@
 
 .paper h3,.course h3{font-weight:700}
 .paper-links a{color:#994b4b}
+
+/* Center the biography on mobile; keep desktop alignment. */
+@media (max-width:700px){
+  body:has(.bio) header{align-items:center;text-align:center}
+  body:has(.bio) nav{justify-content:center;flex-wrap:wrap}
+  .bio{text-align:center}
+  .bio .portrait{margin-inline:auto}
+  .bio .links{justify-content:center}
+  body:has(.bio) footer{text-align:center}
+}

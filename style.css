@@ -36,3 +36,14 @@
 /* Unified titles and a clearer blue for content links. */
 .content .paper h3,.content .course h3{font-family:Arial,Helvetica,sans-serif;font-size:19px;font-weight:700;line-height:1.45;color:#41464d}
 a,.paper-links a,.meta a{color:#2563a6}
+
+/* Compact entries and consistent spacing between sections. */
+.content .paper h3,.content .course h3{margin-bottom:3px}
+.paper .meta,.course .meta{margin-top:2px;line-height:1.55}
+.paper .meta + .meta{margin-top:2px}
+.paper,.course{margin-bottom:28px}
+.content article + h2{margin-top:54px}
+@media(max-width:700px){
+  .course .dates{margin-top:2px;line-height:1.55}
+  .paper-heading .paper-links{margin:4px 0 5px}
+}
